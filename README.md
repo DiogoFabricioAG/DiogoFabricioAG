@@ -19,7 +19,7 @@
 <h2 align="center">Tecnologías Conocidas</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,tailwind,vue,js,django,py,spring,sklearn,github,notion,pinia,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,tailwind,vue,js,django,py,spring,sklearn,github,notion,pinia,postman,vscode,postgres" />
   </a>
 </p>
 
