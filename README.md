@@ -14,16 +14,18 @@
 - 🤝 Excelente desempeño en Trabajo Colaborativo 
 - 🛎️ Siempre aceptando el Feedback
 
-<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DiogoFabricioAG&show_icons=true&theme=tokyonight&layout=compact)
+
 
 <h2 align="center">Tecnologías Conocidas</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,tailwind,vue,js,django,py,spring,sklearn,github,notion,pinia,postman,vscode,postgres" />
+    
   </a>
 </p>
 
-<br>
+<br/>
 
 <h2 align="center">Contactame 🙌</h2>
 
