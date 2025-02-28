@@ -6,15 +6,20 @@
   <img src="https://github.com/DiogoFabricioAG/DiogoFabricioAG/assets/126220077/5ee8a2c2-30d5-4f5b-9b24-c75f2c3f34db">
 </div>
 
-## Sobre mi
+<br/>
 
-- 📒 Cursando el 5° ciclo de Ing. de Sistemas
-- 💻 Apasionado por el desarrollo Web 
-- 🤖 Interesado en el Aprendizaje Automático (ML)
-- 🤝 Excelente desempeño en Trabajo Colaborativo 
-- 🛎️ Siempre aceptando el Feedback
+| 📒 Educación | 💻 Pasión | 🤖 Intereses | 🤝 Habilidades | 🛎️ Valores |
+|-------------|-----------|-------------|----------------|-----------|
+| Cursando el 5° ciclo de Ing. de Sistemas | Desarrollo Web | Aprendizaje Automático (ML) | Trabajo Colaborativo | Feedback constante |
+<div align="center">
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DiogoFabricioAG&show_icons=true&theme=tokyonight&layout=compact)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=DiogoFabricioAG&theme=dark&hide_border=true&locale=es&short_numbers=true)](https://git.io/streak-stats)
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
+  <br><br>
+  
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DiogoFabricioAG&show_icons=true&theme=tokyonight&layout=compact)
 
 
 <h3>Lenguajes de Programación</h3>
