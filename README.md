@@ -17,13 +17,41 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DiogoFabricioAG&show_icons=true&theme=tokyonight&layout=compact)
 
 
-<h2 align="center">Tecnologías Conocidas</h2>
-<p align="center">
+<h3>Lenguajes de Programación</h3>
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,tailwind,vue,js,django,py,spring,sklearn,github,notion,pinia,postman,vscode,postgres" />
-    
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java&perline=2" />
   </a>
 </p>
+
+<h3>Bases de Datos</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,mysql,redis,dynamodb&perline=3" />
+  </a>
+</p>
+
+<h3>Frameworks</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,vue,astro,django,spring,fastapi,flask,express,nuxtjs&perline=3" />
+  </a>
+</p>
+
+<h3>DevOps</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,aws,netlify,docker,githubactions&perline=3" />
+  </a>
+</p>
+
+<h3>Extras</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,react,git,notion,idea,vscode,wordpress,vite,vercel,pinia&perline=5" />
+  </a>
+</p>
+
 
 <br/>
 
