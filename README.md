@@ -14,7 +14,7 @@
 <div align="center">
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DiogoFabricioAG&show_icons=true&theme=tokyonight&layout=compact)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=DiogoFabricioAG&theme=dark&hide_border=true&locale=es&short_numbers=true)](https://git.io/streak-stats)
+  ![Account's stats](https://github-readme-stats.vercel.app/api?username=DiogoFabricioAG&show_icons=true&theme=tokyonight&layout=compact)
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
   <br><br>
   
