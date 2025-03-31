@@ -8,9 +8,7 @@
 
 <br/>
 
-| 📒 Educación | 💻 Pasión | 🤖 Intereses | 🤝 Habilidades | 🛎️ Valores |
-|-------------|-----------|-------------|----------------|-----------|
-| Cursando el 5° ciclo de Ing. de Sistemas | Desarrollo Web | Aprendizaje Automático (ML) | Trabajo Colaborativo | Feedback constante |
+
 <div align="center">
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DiogoFabricioAG&show_icons=true&theme=tokyonight&layout=compact)
