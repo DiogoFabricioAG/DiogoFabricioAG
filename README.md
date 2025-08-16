@@ -1,76 +1,75 @@
 <div align="center">
-<h1 align="center">Hola, soy <strong>Diogo Abregu</strong> 👋</h1>
+  <h1>👋 Hola, soy <strong>Diogo Abregu</strong></h1>
+  <h3>AI Engineer | Fullstack Developer | Emprendedor en Construcción</h3>
 </div>
 
-<div align="center">
-  <img src="https://github.com/DiogoFabricioAG/DiogoFabricioAG/assets/126220077/5ee8a2c2-30d5-4f5b-9b24-c75f2c3f34db">
-</div>
+---
 
-<br/>
+## 🚀 Sobre mí
+Creo **soluciones tecnológicas con impacto real**, sin casarme con una sola herramienta: lo importante es que el resultado supere expectativas.  
 
+Cuento con experiencia en:  
+- 🤖 **Inteligencia Artificial**: desarrollo de chatbots inteligentes con RAG, analítica predictiva y agentes de IA.  
+- 🌐 **Desarrollo Web & Móvil**: aplicaciones escalables con stacks modernos.  
+- ☁️ **Cloud & DevOps**: despliegues en la nube, Docker, CI/CD y arquitecturas serverless.  
 
-<div align="center">
-  
-  ![Account's stats](https://github-readme-stats.vercel.app/api?username=DiogoFabricioAG&show_icons=true&theme=tokyonight&layout=compact)
-  <br>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
-  <br><br>
-  
-</div>
+🔥 Soy un apasionado del **ecosistema startup y el desarrollo de productos digitales**. Mi meta es lanzar y liderar mi propio emprendimiento, integrando tecnología con innovación.
 
+---
 
+## 💡 Proyectos Destacados
 
-<h3>Lenguajes de Programación</h3>
+- **GreedisGood** 🛒  
+  Plataforma de e-commerce enfocada en ofrecer una experiencia de compra personalizada.  
+
+- **LEAD UNI Hub** 🎓  
+  Portal web y sistema de gestión comunitaria para estudiantes de la Universidad Nacional de Ingeniería, impulsando proyectos, ponencias y eventos tecnológicos.  
+
+- **Investia** 💸  
+  Plataforma de **inversiones digitales con Stripe Connect**, que permite invertir en fondos, gestionar roles y hacer seguimiento al crecimiento económico.  
+
+---
+
+## 🛠️ Tech Stack
+
+### Lenguajes
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java&perline=2" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java&perline=6" />
 </p>
 
-<h3>Bases de Datos</h3>
+### Bases de Datos
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,mysql,redis,dynamodb&perline=3" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,mysql,redis,dynamodb&perline=6" />
 </p>
 
-<h3>Frameworks</h3>
+### Frameworks & Librerías
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,vue,astro,django,spring,fastapi,flask,express,nuxtjs&perline=3" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,astro,tailwind,flask,fastapi,django,spring,express&perline=6" />
 </p>
 
-<h3>DevOps</h3>
+### DevOps & Cloud
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,aws,netlify,docker,githubactions&perline=3" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker,aws,github,githubactions,netlify,vercel&perline=6" />
 </p>
 
-<h3>Extras</h3>
+### Extras
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,react,git,notion,idea,vscode,wordpress,vite,vercel,pinia&perline=5" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,vscode,idea,notion,wordpress,vite,pinia,html&perline=6" />
 </p>
 
+---
 
-<br/>
-
-<h2 align="center">Contactame 🙌</h2>
-
+## 📬 Conectemos
 <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=+51923790280&text=Hola,%20mi%20nombre%20es%20%3CTu%20nombre%3E,%20quisiera%20hablar%20contigo%20sobre%20%3C%22Tema%20de%20conversaci%C3%B3n%22%3E"  target="blank">
-    <img align="center" src="https://www.espai.es/blog/wp-content/uploads/2013/04/whatsapp-logo.png" align="center" alt="whatsapp" height="48" width="48" />
-</a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/diogo-abregu-g/" target="blank">
+  <a href="https://api.whatsapp.com/send?phone=+51923790280&text=Hola,%20mi%20nombre%20es%20%3CTu%20nombre%3E,%20quisiera%20hablar%20contigo%20sobre%20%3CTema%20de%20conversación%3E">
+    <img src="https://www.espai.es/blog/wp-content/uploads/2013/04/whatsapp-logo.png" height="48" width="48" />
+  </a>
+  <a href="https://www.linkedin.com/in/diogo-abregu-g/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>  
-  <a href="mailto:diogo.abregu.g@uni.pe/" target="blank">
+  </a>
+  <a href="mailto:diogo.abregu.g@uni.pe">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>  
+  </a>
 </p>
+
 
