@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hola, soy <strong>Diogo Abregu</strong></h1>
-  <h3>AI Engineer | Fullstack Developer | Emprendedor en Construcción</h3>
+  <h3>AI Engineer | Fullstack Developer | YC Enjoyer</h3>
 </div>
 
 ---
